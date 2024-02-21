@@ -1,0 +1,11 @@
+---
+title: "About"
+---
+
+About Me
+
+![](Picture.jpeg){width="336"}
+
+```{r}
+1 + 1
+```
